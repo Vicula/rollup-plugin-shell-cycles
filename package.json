@@ -1,0 +1,26 @@
+{
+  "name": "rollup-plugin-shell-cycles",
+  "version": "0.1.1",
+  "description": "Execute shell command(s) sequentially or Synchronously at different lifecycle hooks.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicula/rollup-plugin-shell-cycles.git"
+  },
+  "keywords": [
+    "rollup",
+    "plugin"
+  ],
+  "author": "@Vicula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vicula/rollup-plugin-shell-cycles/issues"
+  },
+  "homepage": "https://github.com/Vicula/rollup-plugin-shell-cycles#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
